@@ -21,6 +21,6 @@ https://raw.githubusercontent.com/rajeevratan84/data-analyst-bootcamp/master/mat
 This dataset contains the data from IPL season 2008 to IPL season 2017.
 
 # Blog
-For Detailed presentation, Have a Glimpse of my blog @hashnode
+For Detailed presentation, Have a Glimpse of my blog https://datanalytics.hashnode.dev/ipl-data-analysis @hashnode.
 
 
