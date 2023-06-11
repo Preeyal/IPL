@@ -6,7 +6,7 @@ With the conclusion of this year's IPL, it's time to keep our cricket enthusiasm
 
 
 # Overview 
-_The key aspects for the project is as follows_: \n
+_The key aspects for the project is as follows_: 
 
 1.**Identify top performers:** Analyze Man of the Match awards to identify top-performing players throughout the IPL seasons.
 
@@ -19,4 +19,8 @@ _The key aspects for the project is as follows_: \n
 # Dataset
 https://raw.githubusercontent.com/rajeevratan84/data-analyst-bootcamp/master/matches.csv
 This dataset contains the data from IPL season 2008 to IPL season 2017.
+
+# Blog
+For Detailed presentation, Have a Glimpse of my blog @hashnode
+
 
