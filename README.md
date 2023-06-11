@@ -6,7 +6,8 @@ With the conclusion of this year's IPL, it's time to keep our cricket enthusiasm
 
 
 # Overview 
-_The key aspects for the project is as follows_:
+_The key aspects for the project is as follows_: \n
+
 1.**Identify top performers:** Analyze Man of the Match awards to identify top-performing players throughout the IPL seasons.
 
 2.**Assess first batting advantage:** Explore the outcomes of matches based on the first batting team, considering win-by-runs data, and analyze team-wise wins in bar graphs.
