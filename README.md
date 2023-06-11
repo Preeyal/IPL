@@ -2,7 +2,8 @@
 
 With the conclusion of this year's IPL, it's time to keep our cricket enthusiasm alive and kicking! Even though the dataset may be old, we're determined to mine the old gold and extract valuable insights.
 
-![image](https://github.com/Preeyal/IPL/assets/98450775/53dff052-d09b-4015-bd3f-78f13d3cf8ec)
+![image](https://github.com/Preeyal/IPL/assets/98450775/3b83c848-6eec-4804-bda3-40075c7921bd)
+
 
 
 # Overview 
